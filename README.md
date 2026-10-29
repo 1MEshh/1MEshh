@@ -35,6 +35,6 @@ Most of what I build is in **Python** and **Rust**.
 ---
 
 ### What I Use
-- **Languages:** Python, Rust, C++, TypeScript, Bash
-- **System:** Arch Linux / CachyOS, Wayland
+- **Languages:** Python, Rust, C++, TypeScript, Bash soon(go,lua)
+- **System:** Arch Linux / Wayland
 - **Tools:** Wireshark, GDB, Docker, Git
