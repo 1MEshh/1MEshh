@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/guts_matrix.gif" alt="1MEshh" width="100%" />
+  <img src="assets/katana_matrix.gif" alt="1MEshh" width="100%" />
 </p>
 
 Interested in IT, cybersecurity, Linux systems, and applied AI.
