@@ -1,0 +1,11 @@
+# OS and temporary files
+.DS_Store
+Thumbs.db
+*~
+*.swp
+
+# Environment & credentials
+.env*
+*.key
+*.pem
+*.secret
