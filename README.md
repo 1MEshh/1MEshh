@@ -20,9 +20,9 @@ Most of what I build is in **Python** and **Rust**.
 - [**Doom**](https://github.com/1MEshh/Doom) – Security tool with local model integration and shell generation (Rust)
 - [**Mirage**](https://github.com/1MEshh/Mirage) – Honeypot daemon with shell deobfuscation and MITRE mapping (Python)
 - [**Netpulse**](https://github.com/1MEshh/Netpulse) – PCAP packet analyzer and TLS JA3 fingerprinter (C++20)
-- [**Sanitize**](https://github.com/1MEshh/Sanitize) – EXIF/GPS scrubber and sensitive data scanner (Python)
+- [**Sanitize**](https://github.com/1MEshh/Sanitize) – EXIF/GPS scrubber, WebP/ID3 privacy cleaner and sensitive data scanner (Python)
 - [**Specter**](https://github.com/1MEshh/Specter) – JWT security analysis tool (Rust)
-- [**Warden**](https://github.com/1MEshh/Warden) – Secret scanner and credential auditor (Python)
+- [**Warden**](https://github.com/1MEshh/Warden) – Secret scanner, modern AI token detector and credential auditor (Python)
 
 #### Linux & Tools
 - [**Overdrive**](https://github.com/1MEshh/Overdrive) – Steam launch tool and frametime telemetry auditor (Rust)
